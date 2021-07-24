@@ -1,1 +1,3 @@
 # Traffic-lights-using-pushbutton-and-leds-IoT-Project-
+This project is about creating a traffic lights system using a single pushbutton and 3 LEDs. The pushbutton onces pressed, a sequence of LEDs would start glowing as mentioned in the code one after the other afer a desired time period. It resembles very closely to the traffic lights we see on streets. I have also made a few combinations other than one light glowing at a time. The major components used are NodeMCU, pushbutton and 3 LEDs along with a few resistors for circuit protection.
+Herein I have attached the google drive link to view the videos of the working of the project: https://drive.google.com/drive/folders/17ZYEFPJwWohEBz1fC1IzbvfH7JrYKxBI?usp=sharing
